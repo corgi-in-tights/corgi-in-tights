@@ -1,6 +1,6 @@
 ```bash
 <he>reyaan</him>
-/opt/homebrew/"backend developer"/"aspiring engineer"/"but not that kind of engineer"
+➜  /opt/homebrew cd "backend developer"/"aspiring engineer"/"but not that kind of engineer"
 ```
 
 ```php

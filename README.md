@@ -2,9 +2,9 @@
 <he>reyaan</him>
 :backend developer
 ::contacts
-    email   : hiscorginess@gmail.com
-    discord :: hiscorginess
-    reddit  : corgi-in-tights
+    /*  email  */ : hiscorginess@gmail.com
+    /* discord */ : hiscorginess
+    /*  reddit */ : corgi-in-tights
 
 :university of mcmaster # biotechnology
 :looking ~for~ work

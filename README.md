@@ -1,6 +1,9 @@
-```php
+```diff
 <he>reyaan</him>
-:usr/"backend developer"/"aspiring engineer"/"but not that kind of engineer"
+/usr/"backend developer"/"aspiring engineer"/"but not that kind of engineer"
+```
+
+```php
 ::contacts
     /**   email   */ : hiscorginess@gmail.com
     /**   discord */ : hiscorginess

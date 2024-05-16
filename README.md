@@ -27,7 +27,13 @@
          +:+:::; ::::::::::+:+::::++::             :manufactured in 2006
 
 (to be frank jeremy is a disappointment)
+```
 
+<br/>
+
+```js
+//   =\_______,   // 
+//     "     "    //
 
 ## notable accomplishments ##
 - tried to found a non-profit
@@ -38,6 +44,7 @@
 - apparently has 28 hours of free time a day
 
 thanks for reading my README.md 
+
 //   =\_______,   // 
 //     "     "    //
 ```

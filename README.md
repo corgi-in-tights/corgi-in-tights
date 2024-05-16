@@ -9,7 +9,7 @@
 :university of mcmaster # biotechnology
 :looking ~for~ work
 
-         .:++:::.                                  :secretly a corgi
+         .:++:::.                                  :secretly a corgi or an owl
      o   ::::/==\:.                                
  ()::::::o::/====|:.        WURF!                  :works atleast 23 minutes a day
  ::::++::::|=====|::           ..wurf?             :hobbyist of all kinds:
@@ -27,4 +27,17 @@
          +:+:::; ::::::::::+:+::::++::             :manufactured in 2006
 
 (to be frank jeremy is a disappointment)
+
+
+## notable accomplishments ##
+- tried to found a non-profit
+- tried to participate in atleast one hackathon
+- tried to build a coilgun
+- tried to make and publish a board game
+- "if engineering doesnt work out, maybe social engineering will"
+- apparently has 28 hours of free time a day
+
+thanks for reading my README.md 
+//   =\_______,   // 
+//     "     "    //
 ```

@@ -1,6 +1,6 @@
 ```php
 <he>reyaan</him>
-:backend developer
+:usr/"backend developer"/"aspiring engineer"/"but not that kind of engineer"
 ::contacts
     /*  email  */ : hiscorginess@gmail.com
     /* discord */ : hiscorginess

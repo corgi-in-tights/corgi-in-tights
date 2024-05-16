@@ -12,7 +12,7 @@
 :university of mcmaster # biotechnology
 :looking ~for~ work
 
-         .:--:::.                                  :secretly a corgi or an owl
+         .:--:::.                                  :secretly a CORGI or an OWL
      o   ::::/==\:.                                
  ()::::::o::/====|:.        WURF!                  :works atleast 23 minutes a day
  ::::--::::|=====|::           ..wurf?             :hobbyist of all kinds:
@@ -22,9 +22,9 @@
            `|:-:::::::--:*.`                           :board games
          `/.:---::**:-:::::.`       woff.              :SCIENCE BABY
           \:*:--:*:::::::::-:.           o         
-            \::::;::::::::`---`::.      /|         :{'python', 'kotlin', 'typescript'}
-              :::;::---:*;::-:::::     /|          :['django', 'postgresql', 'aws',
-              ::::;::-::;:::;;:::::    |           : 'rbpi',   'docker',     'blender']
+            \::::;::::::::`---`::.      /|         :{'PYTHON', 'kotlin', 'typescript'}
+              :::;::---:*;::-:::::     /|          :['DJANGO', 'POSTGRESQL', 'AWS',
+              ::::;::-::;:::;;:::::    |           : 'rbpi',   'DOCKER',     'blender']
               :--:;::::::;*:::---:::  /|            
          .:::::; .:::--::::::::::::::::            :osx-firefox-vscode-intellij
          -:-:::; ::::::::::-:-::::--::             :manufactured in 2006
@@ -35,8 +35,8 @@
 <br/>
 
 ```js
-//   =\_______,   // 
-//     "     "    //
+ //   =\_______,   // 
+//      "     "   //
 
 ## notable accomplishments ##
 - tried to found a non-profit
@@ -48,6 +48,6 @@
 
 thanks for reading my README.md 
 
-//   =\_______,   // 
-//     "     "    //
+ //   =\_______,   // 
+//      "     "  //
 ```

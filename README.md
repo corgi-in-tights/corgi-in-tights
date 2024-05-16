@@ -2,9 +2,9 @@
 <he>reyaan</him>
 :usr/"backend developer"/"aspiring engineer"/"but not that kind of engineer"
 ::contacts
-    /*  email  */ : hiscorginess@gmail.com
-    /* discord */ : hiscorginess
-    /*  reddit */ : corgi-in-tights
+    /**   email   */ : hiscorginess@gmail.com
+    /**   discord */ : hiscorginess
+    /**   reddit  */ : corgi-in-tights
 
 :university of mcmaster # biotechnology
 :looking ~for~ work

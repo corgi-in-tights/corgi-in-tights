@@ -1,6 +1,6 @@
-```xml
+```bash
 <he>reyaan</him>
-/usr/"backend developer"/"aspiring engineer"/"but not that kind of engineer"
+/opt/homebrew/"backend developer"/"aspiring engineer"/"but not that kind of engineer"
 ```
 
 ```php

@@ -9,18 +9,18 @@
     /**   discord */ : hiscorginess
     /**   reddit  */ : corgi-in-tights
 
-:university of mcmaster # biotechnology
+:going into UofT CS
 :looking ~for~ work
 
          .:--:::.                                  :secretly a CORGI or an OWL
      o   ::::/==\:.                                
  ()::::::o::/====|:.        WURF!                  :works atleast 23 minutes a day
  ::::--::::|=====|::           ..wurf?             :hobbyist of all kinds:
-  '|__/'::::::\===/::    (jeremy says hi)              :fencing
-        ':::::::::::'    (jeremy is not real)          :modding
-         |=|=|=|-|-|=                                  :three-d printing
-           `|:-:::::::--:*.`                           :board games
-         `/.:---::**:-:::::.`       woff.              :SCIENCE BABY
+  '|__/'::::::\===/::    (jeremy says hi)              :🏅sports
+        ':::::::::::'    (jeremy is not real)          
+         |=|=|=|-|-|=                                  :3️⃣d printing
+           `|:-:::::::--:*.`                           :🅱️oard games
+         `/.:---::**:-:::::.`       woff.              :🧪experimentation gone wrong
           \:*:--:*:::::::::-:.           o         
             \::::;::::::::`---`::.      /|         :{'PYTHON', 'kotlin', 'typescript'}
               :::;::---:*;::-:::::     /|          :['DJANGO', 'POSTGRESQL', 'AWS',
@@ -41,9 +41,8 @@
 ## notable accomplishments ##
 - tried to found a non-profit
 - tried to participate in atleast one hackathon
-- tried to build a coilgun
+- tried to build a coilgun (failed and didnt even start)
 - tried to make and publish a board game
-- "if engineering doesnt work out, maybe social engineering will"
 - apparently has 28 hours of free time a day
 
 thanks for reading my README.md 

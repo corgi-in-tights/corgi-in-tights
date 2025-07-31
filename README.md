@@ -1,6 +1,6 @@
 ```bash
 <he>reyaan</him>
-➜  /opt/homebrew cd "backend developer"/"aspiring engineer"/"but not that kind of engineer"
+➜  /opt/homebrew cd "backend developer"/"maybe ai too who knows"
 ```
 
 ```py
@@ -9,12 +9,11 @@
     /**   discord */ : hiscorginess
     /**   reddit  */ : corgi-in-tights
 
-:going into UofT CS
-:looking ~for~ work
+:second year @ uoft
 
-         .:--:::.                                  :secretly a CORGI or an OWL
+         .:--:::.                                  :secretly a secret agent
      o   ::::/==\:.                                
- ()::::::o::/====|:.        WURF!                  :works atleast 23 minutes a day
+ ()::::::o::/====|:.        WURF!                  :works
  ::::--::::|=====|::           ..wurf?             :hobbyist of all kinds:
   '|__/'::::::\===/::    (jeremy says hi)              :🏅sports
         ':::::::::::'    (jeremy is not real)          
@@ -39,11 +38,11 @@
 //      "     "   //
 
 ## notable accomplishments ##
-- tried to found a non-profit
-- tried to participate in atleast one hackathon
-- tried to build a coilgun (failed and didnt even start)
+- made a website
+- won a few hackathons (maybe)
+- has built weapons
 - tried to make and publish a board game
-- apparently has 28 hours of free time a day
+- slept for over 18 hours in one day without being tired
 
 thanks for reading my README.md 
 

@@ -1,6 +1,6 @@
 ```bash
 <he>reyaan</him>
-➜  /opt/homebrew cd "backend developer"/"maybe ai too who knows"
+➜  /opt/homebrew cd "currently hoarding 16gb of ddr5 ram"
 ```
 
 ```py
@@ -9,26 +9,24 @@
     /**   discord */ : hiscorginess
     /**   reddit  */ : corgi-in-tights
 
-:second year @ uoft
-
-         .:--:::.                                  :secretly a secret agent
+         .:--:::.                                  :
      o   ::::/==\:.                                
- ()::::::o::/====|:.        WURF!                  :works
+ ()::::::o::/====|:.        WURF!                  :second year @ uoft
  ::::--::::|=====|::           ..wurf?             :hobbyist of all kinds:
-  '|__/'::::::\===/::    (jeremy says hi)              :🏅sports
-        ':::::::::::'    (jeremy is not real)          
+  '|__/'::::::\===/::                                  :🏅number 1 book reader
+        ':::::::::::'                                  :
          |=|=|=|-|-|=                                  :3️⃣d printing
-           `|:-:::::::--:*.`                           :🅱️oard games
-         `/.:---::**:-:::::.`       woff.              :🧪experimentation gone wrong
-          \:*:--:*:::::::::-:.           o         
-            \::::;::::::::`---`::.      /|         :{'PYTHON', 'kotlin', 'typescript'}
-              :::;::---:*;::-:::::     /|          :['DJANGO', 'POSTGRESQL', 'AWS',
-              ::::;::-::;:::;;:::::    |           : 'rbpi',   'DOCKER',     'blender']
-              :--:;::::::;*:::---:::  /|            
-         .:::::; .:::--::::::::::::::::            :osx-firefox-vscode-intellij
-         -:-:::; ::::::::::-:-::::--::             :manufactured in 2006
 
-(to be frank jeremy is a disappointment)
+           `|:-:::::::--:*.`                           :🅱️oard games
+         `/.:---::**:-:::::.`       woff.              :🎧phile
+          \:*:--:*:::::::::-:.           o             
+            \::::;::::::::`---`::.      /|         ::
+              :::;::---:*;::-:::::     /|          :django, k8s, other backend shenanigans
+                                                   ::
+              ::::;::-::;:::;;:::::    |           :expiry date 2087
+              :--:;::::::;*:::---:::  /|           :manufactured in 2006 
+         .:::::; .:::--::::::::::::::::            :osx-firefox-vscode
+         -:-:::; ::::::::::-:-::::--::             
 ```
 
 <br/>
@@ -38,13 +36,9 @@
 //      "     "   //
 
 ## notable accomplishments ##
-- made a website
-- won a few hackathons (maybe)
-- has built weapons
-- tried to make and publish a board game
-- slept for over 18 hours in one day without being tired
+- tbd
 
-thanks for reading my README.md 
+thanks for reading my readme
 
  //   =\_______,   // 
 //      "     "   //
